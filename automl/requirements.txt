@@ -1,0 +1,7 @@
+nltk
+matplotlib
+pandas
+wordcloud
+google-cloud-aiplatform
+kfp
+google-cloud-pipeline-components
